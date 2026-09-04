@@ -89,3 +89,5 @@ Palak Saini
 Task: Data Analyst Internship – Task 5
 
 Topic: Exploratory Data Analysis (EDA)
+<img width="1055" height="1491" alt="das" src="https://github.com/user-attachments/assets/8a2537fd-dbae-4f57-8daf-fda0828e3110" />
+
