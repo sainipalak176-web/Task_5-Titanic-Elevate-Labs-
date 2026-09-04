@@ -1,24 +1,91 @@
 # Task_5-Titanic-Elevate-Labs-
 
-PROJECT OVERVIEW
-This project is part of the Data Analyst Internship – Task 5. The objective of this project is to perform Exploratory Data Analysis (EDA) on the Titanic dataset and extract meaningful insights using statistical analysis and data visualizations.
-OBJECTIVE
-The main objective is to understand the dataset, identify patterns and trends, explore relationships between variables, detect missing values and anomalies, and summarize the important findings obtained from the analysis.
-TOOLS & TECHNOLOGIES
-Python, Pandas, NumPy, Matplotlib, Seaborn, and Jupyter Notebook are used to perform the complete analysis.
-DATASET
-The Titanic dataset contains passenger-related information such as survival status, passenger class, gender, age, number of siblings or spouses, number of parents or children, fare, embarkation details, and other passenger attributes.
-EDA PERFORMED
-The analysis includes dataset inspection, descriptive statistics, value counts, missing-value analysis, univariate analysis, bivariate analysis, correlation analysis, and visual exploration using histograms, boxplots, countplots, scatterplots, and a correlation heatmap.
-KEY ANALYSIS AREAS
-The project examines how factors such as passenger class, gender, age, and fare are related to survival. It also explores numerical relationships, distributions, outliers, and other noticeable patterns in the dataset.
-KEY FINDINGS
-The analysis identifies important patterns and relationships in the Titanic dataset. The visualizations and statistical summaries help understand passenger characteristics and the factors associated with survival.
-PROJECT FILES
-Task_5_EDA_Titanic.ipynb contains the complete Jupyter Notebook analysis. The titanic task5.csv file contains the dataset used for the analysis. A PDF report can also be included to present the final findings.
-OUTCOME
-This project demonstrates practical skills in data exploration, statistical analysis, data visualization, and insight generation using Python.
-AUTHOR
+Task 5: Exploratory Data Analysis (EDA) – Titanic Dataset
+
+📌 Project Overview
+
+This project is part of the Data Analyst Internship – Task 5.
+
+The objective is to perform Exploratory Data Analysis (EDA) on the Titanic dataset to discover patterns, relationships, trends, and anomalies using statistical and visual techniques.
+
+🎯 Objective
+
+Understand the structure and characteristics of the Titanic dataset.
+Perform basic statistical analysis.
+Identify patterns and relationships between variables.
+Detect missing values and possible anomalies.
+Create meaningful visualizations.
+Summarize key findings from the analysis.
+
+🛠️ Tools & Technologies
+
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
+
+📂 Dataset
+
+The analysis uses the Titanic Dataset (titanic task5.csv).
+
+The dataset contains information about passengers, including:
+Survival status
+Passenger class
+Gender
+Age
+Number of siblings/spouses
+Number of parents/children
+Fare
+Embarkation details
+Passenger class-related information
+
+🔍 EDA Performed
+
+The notebook includes:
+Dataset inspection using head() and info()
+Descriptive statistics using describe()
+Value-count analysis
+Missing-value inspection
+Univariate analysis
+Bivariate analysis
+Correlation analysis
+
+Visualizations using:
+
+Histograms
+Boxplots
+Countplots
+Scatterplots
+Heatmap
+Identification of important trends and patterns
+Summary of findings
+
+📊 Key Areas of Analysis
+
+The analysis explores questions such as:
+
+What factors are associated with passenger survival?
+How does passenger class relate to survival?
+How does gender relate to survival?
+What is the distribution of passenger ages and fares?
+Which numerical variables show relationships with each other?
+Are there any noticeable outliers or unusual values?
+
+📁 Project Files
+
+Task_5_EDA_Titanic.ipynb – Jupyter Notebook containing the complete EDA.
+titanic task5.csv – Dataset used for the analysis.
+Task_5_EDA_Titanic.pdf – PDF report containing the findings (if included).
+
+📈 Outcome
+
+This project demonstrates practical skills in data cleaning, statistical exploration, data visualization, and insight generation using Python.
+👤 Author
+
 Palak Saini
-TASK
-Data Analyst Internship – Task 5 | Exploratory Data Analysis (EDA)
+
+Task: Data Analyst Internship – Task 5
+
+Topic: Exploratory Data Analysis (EDA)
